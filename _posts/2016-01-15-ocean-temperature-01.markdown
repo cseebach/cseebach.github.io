@@ -2,10 +2,12 @@
 title:  Ocean Temperature - Overview and Hull Design
 subtitle: Looks Easy but Really Isn't
 author: "Cam"
-avatar: "img/authors/cam.png"
+avatar: "img/authors/cam.jpg"
 image: "img/hull-tinkercad.jpg"
 date:   2015-01-15 14:00:00
 ---
+
+Herein, begins my journey to building a useful ocean temperature sensor.
 
 ### You seem a little nuts.
 
