@@ -7,7 +7,7 @@ image: "img/hull-tinkercad.jpg"
 date:   2015-01-15 14:00:00
 ---
 
-Herein, begins my journey to building a useful ocean temperature sensor.
+Herein, my journey to building a useful ocean temperature sensor begins.
 
 ### You seem a little nuts.
 
